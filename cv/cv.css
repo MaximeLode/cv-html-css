@@ -1,0 +1,41 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    text-align: center;
+  }
+  pre {
+    color: rgb(114, 0, 0);
+    font-size: 15pt;
+  }
+
+
+.pre1
+ { font-size: 15pt;
+    color: rgb(114, 0, 0);
+    text-align: end;
+    float: right;   
+}
+
+.cen 
+{
+    font-size: 15pt;
+    color: rgb(114, 0, 0);
+    text-align: end;
+    float: right;   
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    color: black;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    
+}
+
+body {
+    background-color: rgb(224, 224, 224);
+}
